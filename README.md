@@ -1,2 +1,1 @@
-# lyu015.github.io
-lyu015.github.io blog
+# lyu015.github.io blog
